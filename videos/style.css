@@ -1,0 +1,56 @@
+.header {
+    position: fixed;
+    height: 50;
+    width: 99%;
+    background-color: rgba(0, 255, 0, 0.75);
+ }
+ 
+ #middle {
+    padding-top: 80px;
+ }
+
+footer {
+    padding-top: 200px;
+}
+
+#contact_us {
+    margin-right: 50px;
+    text-align: right;
+    color: rgb(0, 0, 255);
+}
+
+.bg-video {
+      position: sticky;
+      top: 0;
+      left: 0;
+      width: 60%;
+      object-fit: cover;
+      z-index: -1;
+      padding-top: 110px;
+      padding-left: 300px;
+}
+
+.logo {
+    padding-left: 50px;
+    padding-top: 10px;
+    position: fixed;
+}
+
+#our_videos {
+    margin-left: 1330px;
+    text-align: center;
+    color: rgb(0, 0, 255);
+    clear: left;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+#autumn {
+    padding-top: 50px;
+}
+
+#Our_Work {
+    padding-top: 120px;
+}
